@@ -1,0 +1,9 @@
+package com.example.demo.controller;
+
+public class CustomerController
+{
+public String saveCustomerDetails()
+{
+return "Customer Controller Modified";
+}
+}
