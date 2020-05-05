@@ -1,0 +1,10 @@
+package com.example.demo.controller
+
+@RestCon
+public class CustomerController
+{
+public String saveCustomerDetails()
+{
+}
+
+}
